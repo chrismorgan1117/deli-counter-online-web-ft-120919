@@ -13,7 +13,8 @@ def line(array)
   end
 end 
 
-def take_a_number(array, name)
+def take_a_number(array, new_person)
+  array.push(new_person)
   
   
   
