@@ -1,4 +1,4 @@
-# Write your code here.
+# BOY OH BOY WAS THIS A DOOOOOZZZZZIIIIIIEEEE
 def line(array)
   if array.length >= 1
     new_array = []
