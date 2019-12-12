@@ -21,5 +21,6 @@ end
 def now_serving(array, name)
   if array.length == 0 
     puts "There is nobody waiting to be served."
-  elsif   
+  else 
+    puts ""
 end 
